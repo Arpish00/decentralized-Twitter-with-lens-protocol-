@@ -2,7 +2,7 @@
 
 Completed as part of Alchemy's ["Road to Web3"](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
 
-This code is for the Tutorial [How to Create a Decentralized Twitter with Lens Protocol](https://docs.alchemy.com/alchemy/road-to-web3/weekly-learning-challenges/10.-how-to-create-a-decentralized-twitter-with-lens-protocol)
+This code is from the Tutorial [How to Create a Decentralized Twitter with Lens Protocol](https://docs.alchemy.com/alchemy/road-to-web3/weekly-learning-challenges/10.-how-to-create-a-decentralized-twitter-with-lens-protocol)
 
 This was week 10, building a decentralized Twitter with Lens
 
@@ -10,8 +10,6 @@ This was week 10, building a decentralized Twitter with Lens
 
 Languages: JavaScript
 Tools: Lens Protocol, GraphQL, Next.js
-
-## This tutorial covers:
 
 - Building a decentralized Twitter
 - Using Next.js for front-end
