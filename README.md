@@ -1,34 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Decentralized Twitter
 
-## Getting Started
+Completed as part of Alchemy's ["Road to Web3"](https://www.youtube.com/playlist?list=PLMj8NvODurfEYLsuiClgikZBGDfhwdcXF)
 
-First, run the development server:
+This code is for the Tutorial [How to Create a Decentralized Twitter with Lens Protocol](https://docs.alchemy.com/alchemy/road-to-web3/weekly-learning-challenges/10.-how-to-create-a-decentralized-twitter-with-lens-protocol)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+This was week 10, building a decentralized Twitter with Lens
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview Info
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Languages: JavaScript
+Tools: Lens Protocol, GraphQL, Next.js
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## This tutorial covers:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Building a decentralized Twitter
+- Using Next.js for front-end
+- Calling the Lense Protocol API
 
-## Learn More
+## Technology/Websites used:
 
-To learn more about Next.js, take a look at the following resources:
+- Lens Protocol
+- Apollo GraphQL
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## To Get Started
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. Clone Repo
+   ```sh
+   git clone https://github.com/MSBivens/road-to-web3-week10-decentralized-twitter
+   ```
 
-## Deploy on Vercel
+Home Page wtih reccomended accounts
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![product-image-1](./product-image-1.PNG)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Profile page with fetched content for a profile
+
+![product-image-2](./product-image-2.PNG)
