@@ -22,17 +22,10 @@ Tools: Lens Protocol, GraphQL, Next.js
 - Lens Protocol
 - Apollo GraphQL
 
-## To Get Started
-
-1. Clone Repo
-   ```sh
-   git clone https://github.com/MSBivens/road-to-web3-week10-decentralized-twitter
-   ```
-
 Home Page wtih reccomended accounts
 
-![product-image-1](./product-image-1.PNG)
+![product-image-1](https://raw.githubusercontent.com/Arpish00/decentralized-Twitter-with-lens-protocol-/master/product-image-1.png)
 
 Profile page with fetched content for a profile
 
-![product-image-2](./product-image-2.PNG)
+![product-image-2](https://raw.githubusercontent.com/Arpish00/decentralized-Twitter-with-lens-protocol-/master/product-image-2.png)
